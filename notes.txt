@@ -1,0 +1,17 @@
+constant data in flash vs dynamic memory
+https://esp32.com/viewtopic.php?t=1995
+
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/freertos_idf.html
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/log.html
+
+neopixel driver
+https://components.espressif.com/components/zorxx/neopixel/versions/1.0.7?language=en
+
+sensor
+https://github.com/lewisxhe/SensorLib
+
+bme280
+https://github.com/utkumaden/esp-idf-bmx280/tree/master
+
+tft
+https://github.com/loboris/ESP32_TFT_library
